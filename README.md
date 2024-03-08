@@ -1,1 +1,3 @@
 # HTML-CSS-and-Git-Code-Refactor
+
+Horiseon request my assistance with reviewing their code base. Horiseon requires a codebase that follows accessability standards so that their homepage is optimized for search engines. In this repository I reviewed the structure of HTML elements. I began by ensuring that the elements follow a logical structure independent of styling and positioning. I also made an adjustments to the title element by adding a more consise, descriptive title. In addition, I reviewed heading attributes to ensure they fall in sequential order on this webpage. Lastly, I added the alt attributes to make the code cleaner for code readers utalizing the scout rule.
